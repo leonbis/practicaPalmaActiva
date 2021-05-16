@@ -6,9 +6,13 @@ body{
     font-size:16px;
 }
 
+h1,h2,h3,a{
+    font-size:18px;
+}
+
 .contenido{
-    width: 1400px;
-    background:#E8F9FF;
+    width: 1360px;
+    background-color:#E8F9FF;
 }
 
 header{
@@ -26,19 +30,14 @@ header{
 
 a{
     text-decoration:none;
-    font-size:18px;
 }
 
 .menu_Principal a {
-    color:#333;
+    color:#000;
 }
 
 .menuPrincipal_inicio{
     font-weight:700;
-}
-
-h1,h2,h3,a{
-    font-size:18px;
 }
 
 .titulo {
@@ -83,14 +82,13 @@ article{
 {
     border-top-left-radius: 40px;
     width:671px;
-    
 }
 
 footer{
     background: #647378;
     margin-top:100px;
     height:200px;
-    color:white;
+    color:#ffffff;
     display:flex;
     align-items:center;
 }
@@ -114,7 +112,7 @@ ul{
  }
 
  footer a{
-     color:white;
+     color:#ffffff;
  }
 
 footer p{
